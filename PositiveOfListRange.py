@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[21]:
-
-
 n = int(input ("How many elements do you want in your list ?\n "))
 list =  []
 output = []
