@@ -23,4 +23,18 @@ n = int(input("Enter the number of 'fibonacci numbers' to be printed :\n"))
 print ("\nThe fibonacci series of first " + str (n) + " numbers is : \n")
 fibonacci (n)
         
+Enter the number of 'fibonacci numbers' to be printed :
+10
 
+The fibonacci series of first 10 numbers is : 
+
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
