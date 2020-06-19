@@ -18,6 +18,9 @@ for a in range (0,n) :
         
 print ("\nYour list with only positive elements is :\n" ,output)
 
+"""
+OUTPUT :
+
 How many elements do you want in your list ?
  5
 
@@ -41,4 +44,6 @@ Your list is :
 
 Your list with only positive elements is :
  [1, 3, 5]
+ 
+ """
 
